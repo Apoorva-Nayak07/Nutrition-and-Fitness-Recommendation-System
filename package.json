@@ -1,0 +1,28 @@
+{
+  "name": "ai-nutrition-fitness-system",
+  "version": "1.0.0",
+  "description": "AI-Powered Nutrition & Fitness Recommendation System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run client\" \"npm run server\" \"npm run ml-service\"",
+    "client": "cd client && npm start",
+    "server": "cd server && npm run dev",
+    "ml-service": "cd ml-service && python app.py",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build",
+    "docker-build": "docker-compose build",
+    "docker-up": "docker-compose up"
+  },
+  "keywords": [
+    "nutrition",
+    "fitness",
+    "ai",
+    "health",
+    "recommendation"
+  ],
+  "author": "HealthTech AI",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
