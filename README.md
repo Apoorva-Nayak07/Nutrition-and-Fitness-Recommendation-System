@@ -14,14 +14,14 @@ A production-grade, full-stack AI-powered health and fitness platform that provi
 ![Landing](screenshots/landing.png)
 
 ### Registration page
-![Signin](screenshots/signin.png)
+![Signin](signin.png)
 
 ### Profile completion
-![Profile](screenshot/cyp1.png)
+![Profile](screenshots/cyp1.png)
 
-![Profile](screenshot/cyp2.png)
+![Profile](screenshots/cyp2.png)
 
-![Profile](screenshot/cyp3.png)
+![Profile](screenshots/cyp3.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
