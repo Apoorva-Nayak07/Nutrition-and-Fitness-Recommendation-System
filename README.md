@@ -7,6 +7,37 @@ A production-grade, full-stack AI-powered health and fitness platform that provi
 ![React](https://img.shields.io/badge/react-18.x-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11-yellow.svg)
 
+
+## Screenshots
+
+### Landing page
+![Landing](screenshots/landing.png)
+
+### Registration page
+![Signin](signin.png)
+
+### Profile completion
+![Profile](screenshots/cyp1.png)
+
+![Profile](screenshots/cyp2.png)
+
+![Profile](screenshots/cyp3.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Diet Planner
+![Diet](screenshots/dietplanner.png)
+
+### Workout Planner
+![Workout](screenshots/workout.png)
+
+### Progress Tracking
+![Progress](screenshots/progress.png)
+
+### AI Assistant
+![AI](screenshots/assistant.png)
+
 ## ✨ Features
 
 ### 🎯 Core Features
@@ -476,51 +507,3 @@ VITE_API_URL=http://localhost:5000/api
 - Motivation support
 - Health disclaimers
 
-## 🎯 Roadmap
-
-- [ ] Meal image recognition
-- [ ] Wearable device integration
-- [ ] Social features & challenges
-- [ ] Advanced ML models
-- [ ] Mobile app (React Native)
-- [ ] Barcode food scanner
-- [ ] Voice-based logging
-- [ ] PDF report generation
-- [ ] Multi-language support
-- [ ] Payment integration
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - Initial work
-
-## 🙏 Acknowledgments
-
-- Inspired by MyFitnessPal, Fitbit, and HealthifyMe
-- Built with modern web technologies
-- Designed for real-world use cases
-
-## 📞 Support
-
-For support, email support@fitai.com or join our Slack channel.
-
-## ⚠️ Disclaimer
-
-This application provides general wellness and fitness guidance only. It is not intended to diagnose, treat, cure, or prevent any disease. Always consult with qualified healthcare professionals before starting any diet or exercise program.
-
----
-
-**Made with ❤️ for the fitness community**
