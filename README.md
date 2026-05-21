@@ -1,4 +1,4 @@
-# 🏋️ FitAI - AI-Powered Nutrition & Fitness Recommendation System
+# 🏋️ FitAI : AI-Powered Nutrition & Fitness Recommendation System
 
 A production-grade, full-stack AI-powered health and fitness platform that provides personalized diet plans, workout routines, calorie predictions, and AI-driven health insights.
 
