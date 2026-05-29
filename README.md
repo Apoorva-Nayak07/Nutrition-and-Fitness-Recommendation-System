@@ -234,60 +234,7 @@ Content-Type: application/json
 }
 ```
 
-#### Login
-```http
-POST /api/auth/login
-Content-Type: application/json
-
-{
-  "email": "john@example.com",
-  "password": "password123"
-}
-```
-
-#### Get Current User
-```http
-GET /api/auth/me
-Authorization: Bearer <token>
-```
-
-#### Update Profile
-```http
-PUT /api/auth/profile
-Authorization: Bearer <token>
-Content-Type: application/json
-
-{
-  "age": 25,
-  "gender": "male",
-  "height": 175,
-  "weight": 70,
-  "targetWeight": 65,
-  "activityLevel": "moderately_active",
-  "fitnessGoal": "weight_loss",
-  "dietPreference": "balanced",
-  "workoutExperience": "intermediate"
-}
-```
-
-### Diet Endpoints
-
-#### Generate Diet Plan
-```http
-POST /api/diet/generate
-Authorization: Bearer <token>
-```
-
-#### Get Calorie Prediction
-```http
-GET /api/diet/calories
-Authorization: Bearer <token>
-```
-
-#### Get Nutrition Recommendations
-```http
-GET /api/diet/recommendations
-Authorization: Bearer <token>
+ization: Bearer <token>
 ```
 
 ### Workout Endpoints
